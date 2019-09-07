@@ -1,0 +1,56 @@
+
+.size{
+    height:10px;
+}
+body{
+    font-family: 'Exo', sans-serif;
+}
+.height{
+    min-height:100vh;
+}
+.height-140{
+    min-height : 140vh;
+}
+.title-underline{
+    width: 200px;
+    height : 10px;
+    margin: 0 auto;
+
+}
+.title-underline1{
+    width: 1100px;
+    height : 10px;
+    margin: 0 auto;
+    background-color : white!important;
+
+}
+.title-underline2{
+    width: 400px;
+    height : 5px;
+    margin: 0 auto;
+
+}
+.title-underline3{
+    width: 500px;
+    height : 5px;
+    margin: 0 auto;
+
+}
+.about-picture{
+    background: url(../img/about_img.jpg)center/cover no-repeat;
+    
+}
+.height-30{
+    min-height : 30vh;
+}
+.gfont1{
+    font-family: 'Livvic', sans-serif!important;
+}
+.gfont2{
+    font-family: 'Chilanka', cursive!important;
+}
+.gfont3{
+    font-family: 'Merriweather', serif;
+}
+
+
